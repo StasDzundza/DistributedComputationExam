@@ -17,7 +17,6 @@ public class Server {
     private Socket sock = null;
     private ObjectInputStream objectInputStream = null;
     private ObjectOutputStream objectOutputStream = null;
-    private DataOutputStream out = null;
     private ICalculator calculator;
 
     public void start(int port) throws IOException, ClassNotFoundException {
