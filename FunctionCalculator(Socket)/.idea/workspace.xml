@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e352df4-81b3-49c1-82cc-09b47548174f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../FunctionCalculator(RMI)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FunctionCalculator(RMI)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/university/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/university/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/university/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/university/client/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,7 @@
       <workItem from="1591775731951" duration="1205000" />
       <workItem from="1591778144705" duration="278000" />
       <workItem from="1591781634025" duration="26000" />
+      <workItem from="1591782058595" duration="22000" />
     </task>
     <servers />
   </component>
@@ -133,9 +133,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591778305311" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1591781634096">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1591782058690">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591781634096" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591782058690" />
   </component>
 </project>
